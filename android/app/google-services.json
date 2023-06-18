@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "101388101529",
+    "project_id": "chithi-a6e67",
+    "storage_bucket": "chithi-a6e67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101388101529:android:7bf93b6ba064853566d508",
+        "android_client_info": {
+          "package_name": "com.generalcoding.chithi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101388101529-t0kku61keo05j4amo2ohj8bp385pumu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcrqNZuKtGph2sI_ivFkvzLbOgAd3OTDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101388101529-t0kku61keo05j4amo2ohj8bp385pumu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101388101529:android:7bac36810e174bc466d508",
+        "android_client_info": {
+          "package_name": "com.generalcoding164.chithi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101388101529-t0kku61keo05j4amo2ohj8bp385pumu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcrqNZuKtGph2sI_ivFkvzLbOgAd3OTDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101388101529-t0kku61keo05j4amo2ohj8bp385pumu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
